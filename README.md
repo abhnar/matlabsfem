@@ -4,7 +4,7 @@
 # created for the PhD thesis, "Stochastic Finite Element Modeling of Material and Geometric Uncertainties in Electromagnetics"
 
 
-Designing MATLAB Finite Element Tool for Elecctormagnetics.
+Designing Stochastic Finite Element Tool for Electormagnetics.
 
 Designed as a class EFEM, the fundamental finite element code.
 
